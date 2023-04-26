@@ -1,0 +1,8 @@
+Time : 12:54:23
+查詢成功
+
+Time : 12:54:23
+max: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                sex,dob,apdat,tdat,sampleid1,sampleid2,testtype,sendname,testreason,
+                hicardno,`type`,twrpturgency,nationality,mtpid
+                FROM covid_trans WHERE uuid=19692

@@ -1,0 +1,52 @@
+Time : 09:48:14
+查詢成功
+
+Time : 09:48:14
+lianghua: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                    sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                    hicardno,`type`,twrpturgency,nationality,mtpid
+                    FROM covid_trans WHERE userid='A123578959' ORDER BY uuid desc
+
+Time : 09:48:10
+林宜祥<br>Linyihsiang<br>A123578959<br>309989450<br>報到成功
+
+Time : 09:48:10
+lianghua: update covid_trans set sampleid1=, sampleid2=Q220914010 ,
+                passportid=309989450, userid=A123578959, mobile=0932273658, hicardno=A123578959,
+                apdat=2022-09-14,testtype=2,cname=林宜祥,dob=1969-01-14,sex=男 / Male,
+                uemail=Kenny@sapota.com.cn,sendname=22091401, testreason=5,fname=Linyihsiang,
+                lname=, tdat=2022-09-14 09:48:10, type=1, nationality=,
+                mtpid=01622352, twrpturgency=urgent
+                where uuid=
+                
+
+Time : 09:47:57
+查詢成功
+
+Time : 09:47:57
+lianghua: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                    sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                    hicardno,`type`,twrpturgency,nationality,mtpid
+                    FROM covid_trans WHERE userid='A123578959' ORDER BY uuid desc
+
+Time : 09:47:51
+林宜祥<br>Linyihsiang<br>A123578959<br>309989450<br>報到成功
+
+Time : 09:47:51
+lianghua: update covid_trans set sampleid1=, sampleid2=Q220914010 ,
+                passportid=309989450, userid=A123578959, mobile=0932273658, hicardno=A123578959,
+                apdat=2022-09-14,testtype=2,cname=林宜祥,dob=1969-01-14,sex=男 / Male,
+                uemail=Kenny@sapota.com.cn,sendname=22091401, testreason=5,fname=Linyihsiang,
+                lname=, tdat=2022-09-14 09:47:51, type=1, nationality=,
+                mtpid=01622352, twrpturgency=urgent
+                where uuid=
+                
+
+Time : 09:47:48
+查詢成功
+
+Time : 09:47:48
+lianghua: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                    sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                    hicardno,`type`,twrpturgency,nationality,mtpid
+                    FROM covid_trans WHERE userid='A123578959' ORDER BY uuid desc

@@ -1,0 +1,144 @@
+Time : 09:13:04
+查詢成功
+
+Time : 09:13:03
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                    sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                    hicardno,`type`,twrpturgency,nationality,mtpid
+                    FROM covid_trans WHERE userid='A228666563' ORDER BY uuid desc
+
+Time : 09:11:32
+查詢成功
+
+Time : 09:11:32
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                hicardno,`type`,twrpturgency,nationality,mtpid
+                FROM covid_trans WHERE sampleid2='Q220810008'
+
+Time : 09:10:20
+查詢成功
+
+Time : 09:10:19
+lianghua: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                hicardno,`type`,twrpturgency,nationality,mtpid
+                FROM covid_trans WHERE sampleid2='Q220908041'
+
+Time : 09:10:15
+查詢成功
+
+Time : 09:10:15
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                    sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                    hicardno,`type`,twrpturgency,nationality,mtpid
+                    FROM covid_trans WHERE userid='A228666563' ORDER BY uuid desc
+
+Time : 09:09:00
+查詢成功
+
+Time : 09:09:00
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                hicardno,`type`,twrpturgency,nationality,mtpid
+                FROM covid_trans WHERE sampleid2='Q220908041'
+
+Time : 09:08:22
+查詢成功
+
+Time : 09:08:22
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                hicardno,`type`,twrpturgency,nationality,mtpid
+                FROM covid_trans WHERE sampleid2='Q220908041'
+
+Time : 09:08:10
+Oops! Something went wrong.<br> Please try again later.
+
+Time : 09:07:33
+查詢成功
+
+Time : 09:07:33
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                hicardno,`type`,twrpturgency,nationality,mtpid
+                FROM covid_trans WHERE uuid=23583
+
+Time : 09:07:19
+Oops! Something went wrong.<br> Please try again later.
+
+Time : 09:07:07
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                hicardno,`type`,twrpturgency,nationality,mtpid
+                FROM covid_trans WHERE sampleid2='Q220908080'
+
+Time : 09:06:59
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                hicardno,`type`,twrpturgency,nationality,mtpid
+                FROM covid_trans WHERE sampleid2='Q220908080'
+
+Time : 09:06:53
+存檔成功
+
+Time : 09:06:53
+tina: update covid_trans set sampleid1= ,sampleid2=Q220908041,
+        passportid=K06391383, userid=B980006746, mobile=0966987691, hicardno=,
+        apdat=2022-09-08,testtype=2,cname=陳麗萍,dob=1960-07-25,sex=女 / Female,uemail=elyse.hy@gmail.com,sendname=22090801,
+        testreason=5,fname=CHAN LAI PING,lname=,type=1,nationality=,mtpid=,twrpturgency=hiurgent,xmappoint=非大陸專案客戶，不適用
+        where uuid=
+
+Time : 09:06:25
+查詢成功
+
+Time : 09:06:25
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                    sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                    hicardno,`type`,twrpturgency,nationality,mtpid
+                    FROM covid_trans WHERE userid='B980006746' ORDER BY uuid desc
+
+Time : 09:06:20
+查詢成功
+
+Time : 09:06:19
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                    sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                    hicardno,`type`,twrpturgency,nationality,mtpid
+                    FROM covid_trans WHERE userid='B980006746' ORDER BY uuid desc
+
+Time : 09:05:14
+查詢成功
+
+Time : 09:05:14
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                hicardno,`type`,twrpturgency,nationality,mtpid
+                FROM covid_trans WHERE sampleid2='Q220908041'
+
+Time : 09:04:03
+查詢成功
+
+Time : 09:04:02
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                hicardno,`type`,twrpturgency,nationality,mtpid
+                FROM covid_trans WHERE uuid=23583
+
+Time : 09:03:07
+查詢成功
+
+Time : 09:03:06
+lianghua: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                hicardno,`type`,twrpturgency,nationality,mtpid
+                FROM covid_trans WHERE sampleid2='Q220908041'
+
+Time : 09:01:44
+查詢成功
+
+Time : 09:01:43
+tina: SELECT uuid,userid, passportid,cname,lname,fname,mobile,uemail,
+                    sex,dob,apdat,tdat,xmappoint,sampleid1,sampleid2,testtype,sendname,testreason,
+                    hicardno,`type`,twrpturgency,nationality,mtpid
+                    FROM covid_trans WHERE userid='A228666563' ORDER BY uuid desc

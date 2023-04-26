@@ -1,0 +1,102 @@
+Time : 15:34:00
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 09:33:39
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 09:33:25
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 09:09:30
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 07:28:47
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:58:06
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:57:43
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:57:28
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:56:45
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:56:13
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:55:20
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:54:41
+: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:54:35
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:53:12
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:52:52
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:52:11
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:51:56
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:51:00
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:50:45
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:49:20
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:49:01
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:47:55
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:47:23
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:46:18
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:12:52
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 11:12:08
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2, pmflag 
+        ) VALUES (
+        '1970-01-01','1970-01-01','M121169747','男 / Male','李峻丞', 'LEE CHUN-CHENG','','1961-10-31','0939347797','jones59688@gmail.com','2023-04-26','','','N','N','2','0422338189','台中市北區青島路一段22號',
+        '2','1','315630725', 'N','N','04769946','N','前往大陸','hiurgent','', '000077702071','7','Y',1,
+        '3','Y','999','Y','999','Y','','Y', '', 'Y','', '', '', '', '', '', 'Y '
+        )
+
+Time : 11:12:08
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2, pmflag 
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','', 'EICHI FUJIWARA','','1997-03-25','+818078085742','eichi.fujiwara@gmail.com','2023-04-26','','','N','N','2','','6F,3-9-2,Nishishinjuku,Shinjuku,Tokyo,Japan',
+        '2','2','TS0241606', 'N','N','','N','','urgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', 'AI SECURITY Co.Ltd.', 'Q230426001', ' '
+        )
+
+Time : 11:10:40
+
+
+Time : 11:09:37
+

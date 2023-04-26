@@ -1,0 +1,137 @@
+Time : 07:48:37
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 07:47:20
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 07:47:12
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:43:07
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:42:56
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 04:19:15
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 04:19:06
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 04:16:22
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 04:16:11
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 04:15:10
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 04:10:05
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 04:03:50
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 04:03:45
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 04:01:00
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:59:54
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:59:41
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:59:19
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:53:13
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:52:51
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:52:38
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:52:05
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:51:55
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:49:14
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:49:07
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:49:01
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:49:01
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:48:52
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:48:02
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:47:55
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:47:27
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:47:22
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:46:37
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:46:29
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:46:18
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:46:16
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:45:10
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:45:00
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:44:45
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:44:37
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:44:19
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:43:34
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:38:43
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:38:26
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:38:22
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:38:03
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 03:37:33
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid

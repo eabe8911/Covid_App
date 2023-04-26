@@ -1,0 +1,34 @@
+body{
+    background-image: url("http://www.libobio.com/blog/wp-content/uploads/LiboHome-bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-width: 0px 0px 0px 0px;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    min-height:400px;
+    margin:0 auto;
+    width: 800px;
+    height: 100%;
+}
+h3{
+    border-radius: 30px;
+}
+span{
+    text-align: left;
+}
+img{
+    margin-left:150px;
+    filter: contrast(200%);
+}
+ol{
+    background-color: white;
+}
+li {
+    margin-left:0px; padding-left: 0px;padding-bottom: 20px;
+    list-style-type: decimal-leading-zero;
+    color:teal
+}
+
+

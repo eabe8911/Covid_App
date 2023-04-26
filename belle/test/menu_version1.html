@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>麗寶生醫檢測系統</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style_menu.css">
+    <!-- <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script> -->
+    <!-- <script src="css/style_menu.js"></script> -->
+</head>
+
+<body>
+    <p>
+        <?php echo "You already logged in." ?>
+    </p>
+
+    <br>
+    <h3 class="p-3 mb-2 bg-success text-white">
+        <span>麗寶生醫 COVID-19 檢測系統</span>
+        <img src="http://www.libobio.com/blog/wp-content/uploads/Libobio-Logo@2x.png" width="200px" height="56.5px"
+            alt="麗寶生醫 COVID-19 檢測系統">
+    </h3>
+    <ol>
+        <li hidden>
+            <a href="/import.php" target="_blank" id="import"
+                class="list-group-item list-group-item-action" style="color:black">上傳問卷 CSV
+            </a>
+        </li>
+        <li  hidden>
+            <a href="/email_welcome.php" target="_blank" id="email_welcome"
+                class="list-group-item list-group-item-action" style="color:black">發送預約 E-mail (停用)
+            </a>
+        </li>
+        <li hidden><a href="/checkin_modified.php" target="_blank" id="#" class="list-group-item list-group-item-action" style="color:black">修改客戶資料
+            </a></li>
+        <li hidden>
+            <a href="/checkin.php" target="_blank" id="checkin"
+                class="list-group-item list-group-item-action" style="color:red">報到
+            </a>
+        </li>
+        <li hidden>
+            <a href="/inspect.php" target="_blank" id="inspect"
+                class="list-group-item list-group-item-action" style="color:red">檢測結果
+            </a>
+        </li>
+        <li hidden>
+            <a href="/inspect_confirm.php" target="_blank" id="inspect_confirm"
+                class="list-group-item list-group-item-action" style="color:red">確認結果
+            </a>
+        </li>
+        <li>
+            <a href="/belle/test/upload_ftest_negative.php" target="_blank" id="upload_ftest_negative"
+                class="list-group-item list-group-item-action" style="color:red">批量上傳快篩陰性結果
+            </a>
+        </li>
+        <li hidden>
+            <a href="/email_ftest_reports.php" target="_blank" id="email_ftest_reports"
+                class="list-group-item list-group-item-action" style="color:red">Email 快篩報告 (停用)
+            </a>
+        </li>
+        <li>
+            <a href="/belle/test/upload_pcrtest_negative.php" target="_blank" id="upload_pcrtest_negative"
+                class="list-group-item list-group-item-action" style="color:red">批量上傳 qPCR 陰性結果
+            </a>
+        </li>
+        <li hidden>
+            <a href="/excel_report_download.php" target="_blank" id="excel_report_download"
+                class="list-group-item list-group-item-action" style="color:red">Excel 報表下載
+            </a>
+        </li>
+        <li hidden>
+            <a href="/generate_report.php" target="_blank" id="generate_report"
+                class="list-group-item list-group-item-action" style="color:red;">製作報告
+            </a>
+        </li>
+        <li hidden>
+            <a href="/update_report.php" target="_blank" id="#" class="list-group-item list-group-item-action" style="color:red">重新製作報告
+            </a>
+        </li>
+        <li hidden>
+            <a href="/email_pdf_reports.php" target="_blank" id="email_pdf_reports"
+                class="list-group-item list-group-item-action" style="color:red">Email RT-PCR 報告 (停用)
+            </a>
+        </li>
+        <li hidden>
+            <a href="/email_ftest_pdf_report.php" target="_blank" id="email_ftest_pdf_report"
+                class="list-group-item list-group-item-action" style="color:red">Email Ag_Tc 報告
+            </a>
+        </li>
+        <li hidden>
+            <a href="/search_info.php" target="_blank" id="#" class="list-group-item list-group-item-action" style="color:red">查詢客戶資料
+            </a>
+        </li>
+        <li>
+            <a href="/belle/menu.php" target="_blank" id="#" class="list-group-item list-group-item-action" style="color:red">Version 2.0
+            </a>
+        </li>
+    </ol>
+    </div>
+</body>
+
+</html>

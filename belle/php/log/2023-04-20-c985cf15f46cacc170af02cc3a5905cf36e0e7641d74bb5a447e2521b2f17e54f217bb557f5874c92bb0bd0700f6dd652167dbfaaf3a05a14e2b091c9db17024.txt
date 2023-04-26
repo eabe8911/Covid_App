@@ -1,0 +1,446 @@
+Time : 10:51:55
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 10:36:26
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 16:35:59
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2, hiurgentflag
+        ) VALUES (
+        '1970-01-01','1970-01-01','F123667312','男 / Male','張至德', 'CHANG CHIH-TE','','1975-11-06','919379247','jessechang@icloud.com','2023-04-15','','','N','N','2','919379247','新北市林口區文化二路一段20巷25弄23號6F',
+        '2','1','353200089', 'N','N','4550297','N','前往大陸','hiurgent','', '14198769','7','Y',1,
+        '3','N','0','N','0','Y','','Y', '', 'Y','', '', '', '', '', 'Q230415001', 'Y'
+        )
+
+Time : 16:35:59
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2, hiurgentflag
+        ) VALUES (
+        '1970-01-01','1970-01-01','A800385227','男 / Male','', 'LIEW JEREMY SHEN YI','','1971-09-21','975757418','jeremy@liew.vc','2023-04-15','','','N','N','2','','台北市中山區吉林路6號6樓之1',
+        '2','1','546106714', 'N','N','','N','前往大陸','hiurgent','', '','7','Y',1,
+        '3','Y','999','Y','999','Y','','Y', '', 'N','', '', '', '', '', '', 'Y'
+        )
+
+Time : 15:18:15
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 09:16:35
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 09:14:22
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 09:14:17
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 09:06:30
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 09:06:22
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 09:06:10
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 14:56:57
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','F123667312','男 / Male','張至德', 'CHANG CHIH-TE','','1975-11-06','919379247','jessechang@icloud.com','2023-07-09','','','N','N','2','919379247','新北市林口區文化二路一段20巷25弄23號6F',
+        '2','1','353200089', 'N','N','4550297','N','前往大陸','hiurgent','', '14198769','7','Y',1,
+        '3','N','0','N','0','Y','','Y', '', 'Y','', '', '', '', '', ''
+        )
+
+Time : 14:56:57
+tina: delete from covid_trans where uuid=?
+
+Time : 14:56:56
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','A800385227','男 / Male','', 'LIEW JEREMY SHEN YI','','1971-09-21','975757418','jeremy@liew.vc','2023-04-20','','','N','N','2','','台北市中山區吉林路6號6樓之1',
+        '2','1','546106714', 'N','N','','N','前往大陸','hiurgent','', '','7','Y',1,
+        '3','Y','999','Y','999','Y','','Y', '', 'N','', '', '', '', '', ''
+        )
+
+Time : 14:56:56
+tina: delete from covid_trans where uuid=?
+
+Time : 14:53:43
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','F123667312','男 / Male','張至德', 'CHANG CHIH-TE','','1975-11-06','919379247','jessechang@icloud.com','2023-07-09','','','N','N','2','919379247','新北市林口區文化二路一段20巷25弄23號6F',
+        '2','1','353200089', 'N','N','4550297','N','前往大陸','hiurgent','', '14198769','7','Y',1,
+        '3','N','0','N','0','Y','','Y', '', 'Y','', '', '', '', '', ''
+        )
+
+Time : 14:53:42
+tina: delete from covid_trans where uuid=?
+
+Time : 14:53:42
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','A800385227','男 / Male','', 'LIEW JEREMY SHEN YI','','1971-09-21','975757418','jeremy@liew.vc','2023-04-20','','','N','N','2','','台北市中山區吉林路6號6樓之1',
+        '2','1','546106714', 'N','N','','N','前往大陸','hiurgent','', '','7','Y',1,
+        '3','Y','999','Y','999','Y','','Y', '', 'N','', '', '', '', '', ''
+        )
+
+Time : 14:53:42
+tina: delete from covid_trans where uuid=?
+
+Time : 08:50:22
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 14:49:44
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','', 'NAKAO HIDEMI','','1967-12-01','09046220358','h-nakao@nakao-architect.co.jp','2023-04-27','','','N','N','2','09046220358','THE MIRAMAR GARDEN TAIPEI',
+        '2','2','TT3237402', 'N','N','','N','','normal','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230427004'
+        )
+
+Time : 14:49:44
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','女 / Female','', 'MURAI SAYAKA','','1972-12-09','0905687446','youyou387@yahoo.co.jp','2023-04-21','','','N','N','2','886225971234','No. 41, Section 2, Minquan E Rd, Zhongshan District, Taipei City, 10491',
+        '2','2','TS2136157', 'N','N','','N','','hiurgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230421010'
+        )
+
+Time : 14:49:44
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','A132610782','男 / Male','許哲允', 'HSU, JE-YUN','','2011-12-14','0922452433','BORISPOYA@GMAIL.COM','2023-04-21','','','N','N','2','0922452433','台北市南京東路三段48巷36號8樓之二',
+        '2','1','360303185', 'N','N','','N','','urgent','', '000084385615','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'Y','', '', 'TWN', '', '', 'Q230421009'
+        )
+
+Time : 14:49:44
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','', 'HISATSUNE TAKESHI','','1986-06-24','0937914835','a.gan@mitsui.com;T.Hisatsune@mitsui-plastics.com','2023-04-24','','','N','N','2','','台北市敦化南路二段97號21樓',
+        '2','2','TK9376503', 'N','N','','N','','hiurgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230424003'
+        )
+
+Time : 14:49:44
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','', 'KOJI SUZUKI','','1972-03-27','0975626064','zira18531775@gmail.com','2023-04-21','','','N','N','2','','Tien Chin Hotel 天津大飯店   No. 57, Tianjin Street, Zhongshan District, Taipei City, 10441, Zhongshan District, Taipei, Taiwan, 10441',
+        '2','2','TS2719530', 'N','N','','N','','urgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230421008'
+        )
+
+Time : 14:49:44
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','女 / Female','', 'EMI SHOKONJI','','1991-12-02','0975626064','emikonji888@gmail.com','2023-04-21','','','N','N','2','','No. 57號, Tianjin St, Zhongshan District, Taipei City, 台湾 10441',
+        '2','2','TT3173267', 'N','N','','N','','urgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230421007'
+        )
+
+Time : 14:49:44
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','', 'MURAI YUKI','','1998-11-09','0905687447','youyou387@yahoo.co.jp','2023-04-21','','','N','N','2','88625971234','No. 41, Section 2, Minquan E Rd, Zhongshan District, Taipei City, 10491',
+        '2','2','TS3538418', 'N','N','','N','','hiurgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230421006'
+        )
+
+Time : 14:49:44
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','Q123810606','男 / Male','徐翌全', 'HSU, YI-CHUAN','','1990-02-21','0912077480','wowismay@gmail.com','2023-04-24','','','N','N','2','','台北市松山區三民路101巷24號4樓',
+        '2','1','311843539', 'N','N','','N','','normal','', '000064865159','7','Y',1,
+        '3','Y','999','Y','999','Y','','Y', '', 'Y','', '', 'TWN', '', '', 'Q230424002'
+        )
+
+Time : 14:49:43
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','女 / Female','片倉由香', 'KATAKURA YUKA','','1975-01-26','2-2382-1818','yukay.rs@gmail.com','2023-04-21','','','N','N','2','2-2382-1818','台北市中正区延平南路21号 2F',
+        '2','2','TT3176836', 'N','N','','N','','urgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230421005'
+        )
+
+Time : 14:49:43
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','F123667312','男 / Male','張至德', 'CHANG CHIH-TE','','1975-11-06','0919379247','jessechang@icloud.com','2023-07-09','','','N','N','2','0919379247','新北市林口區文化二路一段20巷25弄23號6F',
+        '2','1','353200089', 'N','N','04550297','N','前往大陸','hiurgent','', '000014198769','7','Y',1,
+        '3','N','0','N','0','Y','','Y', '', 'Y','', '', '', '', '', ''
+        )
+
+Time : 14:49:43
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','小南裕之', 'HIROYUKI KOMINAMI','','1976-01-10','81-90-4998-7018','konan.garnet7310@gmail.com','2023-04-27','','','N','N','2','02-2511-3232','台北市中山區錦州街 23巷4號1-7樓　上賓HOTEL 台北',
+        '2','2','TT3138105', 'N','N','','N','','normal','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230427003'
+        )
+
+Time : 14:49:43
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','横井謙太', 'YOKOI, KENTA','','1994-01-21','0911599009','neotokiobest@hotmail.com','2023-04-27','','','N','N','2','0911599009','Taipei AMBA hotel',
+        '2','2','MJ1916671', 'N','N','','N','','urgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230427002'
+        )
+
+Time : 14:49:43
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','G221576286','女 / Female','林怡甄', 'LIN, YI-JEN','','1982-05-23','0958896877','shyanlin233@me.com','2023-04-24','','','N','N','2','','台北市南港區經貿二路157巷36弄98號4樓',
+        '2','1','309873551', 'N','N','','N','','normal','91074748', '000081383241','7','Y',1,
+        '3','Y','999','Y','999','Y','','Y', '', 'Y','', '', 'TWN', '', '振熙國際有限公司', 'Q230424001'
+        )
+
+Time : 14:49:42
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','', 'UMEDA NAOHIRO','','1980-01-07','+81-90-4840-0606','umdnohr@gmail.com','2023-04-30','','','N','N','2','','台北东京国际饭店 No. 39, Changchun Rd, Zhongshan District, Taipei City, 台湾 10491',
+        '2','2','TT3401150', 'N','N','','N','','hiurgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230430001'
+        )
+
+Time : 14:49:42
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','B122970745','男 / Male','黃昱瑋', 'HUANG, YU-WEI','','1992-12-18','0915885365','gogo12346789@gmail.com','2023-04-25','','','N','N','2','0915885365','台北市內湖區內湖路二段263巷9弄7號',
+        '2','1','350334680', 'N','N','','N','','urgent','', '000082959935','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'Y','', '', 'TWN', '', '', 'Q230425001'
+        )
+
+Time : 14:49:42
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','女 / Female','戸沢倫子', 'TOZAWA  MICHIKO','','1967-11-20','0976881311','mee.tozawa@gmail.com','2023-04-27','','','N','N','2','0903135839','台北市中山区林森北路351号13楼之1',
+        '2','2','TS3213100', 'N','N','','N','','normal','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230427001'
+        )
+
+Time : 14:49:42
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','A223310977','女 / Female','黃翠蓉', 'Huang Tsui-Jung','','1969-03-24','0920902334','joan0324@gmail.com','2023-04-21','','','N','N','2','','台北市中山區樂群二路266巷92號3樓',
+        '2','1','360159152', 'N','N','','N','','normal','', '000021255918','7','Y',1,
+        '3','Y','999','Y','999','Y','','Y', '', 'Y','', '', 'TWN', '', '', 'Q230421004'
+        )
+
+Time : 14:49:42
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','山本政之', 'yamamoto masayuki','','1967-05-16','09088633983','ssys0516@docomo.ne.jp','2023-05-05','','','N','N','2','09088633983','urhome',
+        '2','2','TS0333205', 'N','N','','N','','urgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230505001'
+        )
+
+Time : 14:49:42
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','A800385227','男 / Male','', 'LIEW JEREMY SHEN YI','','1971-09-21','0975757418','jeremy@liew.vc','2023-04-20','','','N','N','2','','台北市中山區吉林路6號6樓之1',
+        '2','1','546106714', 'N','N','','N','前往大陸','hiurgent','', '','7','Y',1,
+        '3','Y','999','Y','999','Y','','Y', '', 'N','', '', '', '', '', ''
+        )
+
+Time : 14:49:42
+tina: delete from covid_trans where uuid=?
+
+Time : 08:49:36
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 08:47:03
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 08:46:58
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:24:01
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:23:54
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:23:43
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:23:37
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:23:29
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:23:21
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:23:14
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 05:23:03
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 11:22:22
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','A800385227','男 / Male','-', 'LIEW JEREMY SHEN YI','','1971-09-21','0975757418','jeremy@liew.vc','2023-04-20','','','N','N','2','','台北市中山區吉林路6號6樓之1',
+        '2','1','546106714', 'N','N','','N','前往大陸','hiurgent','', '','7','Y',1,
+        '3','Y','999','Y','999','Y','','Y', '', 'N','', '', '', '', '', ''
+        )
+
+Time : 11:22:22
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','A9000627491','女 / Female','藍奕', 'Kendra Ranee Lan','','1972-08-03','0975757428','raneelan@gmail.com','2023-04-20','','','N','N','2','','台北市中山區吉林路6號6樓之1',
+        '2','1','505594076', 'N','N','','N','前往大陸','urgent','', '','7','Y',1,
+        '3','Y','999','Y','999','Y','','Y', '', 'N','', '', '', '', '', 'Q230420004'
+        )
+
+Time : 11:22:21
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','西野 嘉人', 'NISHINO YOSHITO','','1981-11-03','0910395117','yoshito_nishino@keiwa.co.jp','2023-04-21','','','N','N','2','02-2370-0035','台北市中正區忠孝西路一段66號33樓 台灣惠和股份有限公司',
+        '2','2','TZ1044280', 'N','N','','N','','urgent','12911398', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '台灣惠和股份有限公司', 'Q230421003'
+        )
+
+Time : 11:22:21
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','', 'SENA  SUZUKI','','2000-01-16','819072537327','senssena0116@gmail.com','2023-04-21','','','N','N','2','','Japan 21-2-202 oyamagoe fukushimasi Fukushimaken',
+        '2','2','MU8526764', 'N','N','','N','','hiurgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230421002'
+        )
+
+Time : 11:22:21
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','F228553557','女 / Female','劉季華', 'Chi-hua Liu','','1993-10-23','0958501765','Ohimhua@gmail.com','2023-04-20','','','N','N','2','','台北市萬華區貴陽街二段96巷12號5f',
+        '2','1','309774699', 'N','N','','N','','normal','', '000081376407','7','N',1,
+        '3','Y','999','Y','999','N','','Y', '', 'Y','', '', 'TWN', '', '', 'Q230420003'
+        )
+
+Time : 11:22:21
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','','男 / Male','', 'SUSUMUNAGAI','','1981-04-21','09084804097','k2c-mikan@ezweb.ne.jp','2023-04-20','','','N','N','2','','田中, 3-5-2',
+        '2','2','TR6790312', 'N','N','','N','','hiurgent','', '','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'N','', '', 'JPN', '', '', 'Q230420002'
+        )
+
+Time : 11:22:21
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','F800340723','男 / Male','', 'TSUKADA KAZUNORI','','1982-02-26','0956210226','kazunoriri@hotmail.com','2023-04-21','','','N','N','2','','新北市蘆洲區光榮路120巷22弄34號3F',
+        '2','2','TT1929677', 'N','Y','','N','','urgent','', '000085795303','7','N',1,
+        '3','N','0','N','0','N','','Y', '', 'Y','', '', 'JPN', '', '', 'Q230421001'
+        )
+
+Time : 11:22:19
+tina: INSERT INTO covid_trans (
+        sfat, efat, userid, sex, cname, fname, lname, dob, mobile, uemail, apdat, ftest, pcrtest, smsflag, emailflag, type, telephone, address2,
+        testtype, ctzn, passportid, cdcflag, residentpermit, mtpid, payflag, xmappoint, twrpturgency, sendname, hicardno, testreason, mobilerpt,xmrpturgency,
+        mailrpt, hbrpt, hbrptyear, cloudrpt, cloudrptyear, nihrpt, xmemail, approval,  address1, hiflag, fpdfflag, pcrpdfflag, nationality, xlspcrtest2, companytitle, sampleid2
+        ) VALUES (
+        '1970-01-01','1970-01-01','F130450667','男 / Male','李維揚', 'LEE, WEI-YANG','','1999-07-13','0905731920','wylee1999@gmail.com','2023-04-20','','','N','N','2','0928981286','台中市北區東成三街296號七樓之12',
+        '2','1','360832102', 'N','N','','N','','urgent','', '000008042710','7','Y',1,
+        '3','Y','999','Y','999','Y','','Y', '', 'Y','', '', 'TWN', '', '', 'Q230420001'
+        )
+
+Time : 05:03:08
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 09:55:55
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid

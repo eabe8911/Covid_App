@@ -1,0 +1,5 @@
+Time : 04:47:20
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
+
+Time : 04:41:39
+tina: SELECT * FROM covid_trans WHERE uuid=:uuid
